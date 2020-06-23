@@ -1,0 +1,13 @@
+BmpCvtNXP.exe digit_brand_0.bmp -hide  -saveasdigit_brand_0,1,8 -exit
+BmpCvtNXP.exe digit_brand_1.bmp -hide  -saveasdigit_brand_1,1,8 -exit
+BmpCvtNXP.exe digit_brand_2.bmp -hide  -saveasdigit_brand_2,1,8 -exit
+BmpCvtNXP.exe digit_brand_3.bmp -hide  -saveasdigit_brand_3,1,8 -exit
+BmpCvtNXP.exe digit_brand_4.bmp -hide  -saveasdigit_brand_4,1,8 -exit
+BmpCvtNXP.exe digit_brand_5.bmp -hide  -saveasdigit_brand_5,1,8 -exit
+BmpCvtNXP.exe digit_brand_6.bmp -hide  -saveasdigit_brand_6,1,8 -exit
+BmpCvtNXP.exe digit_brand_7.bmp -hide  -saveasdigit_brand_7,1,8 -exit
+BmpCvtNXP.exe digit_brand_8.bmp -hide  -saveasdigit_brand_8,1,8 -exit
+BmpCvtNXP.exe digit_brand_9.bmp -hide  -saveasdigit_brand_9,1,8 -exit
+BmpCvtNXP.exe digit_brand_close.bmp -hide  -saveasdigit_brand_close,1,8 -exit
+BmpCvtNXP.exe digit_brand_sign.bmp -hide  -saveasdigit_brand_sign,1,8 -exit
+BmpCvtNXP.exe digit_brand_temp.bmp -hide  -saveasdigit_brand_temp,1,8 -exit
